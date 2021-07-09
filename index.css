@@ -1,0 +1,56 @@
+body {background-color: #284134;}
+h3 {font-family:serif;
+font-size:large;}
+p {font-family:arial;
+font-size:medium;
+padding:5%}
+li {font-family:arial;
+text-indent:25%;
+}
+
+div.bios{
+background-color: #52b98c;
+box-shadow:10px #000000;
+color: #b1ffdd;
+font-family: arial;
+list-style-position:inside;
+text-align: center;
+border:.2em solid #b1ffdd;
+border-style: outset;
+border-radius:10px;
+margin:2px auto;
+height:8%;
+width:30.6%;
+padding:1%;}
+
+div.lists{
+font-family: arial;
+list-style-position:inside;
+display:inline-table;
+text-align:center;
+margin-left:10px auto;
+height:10%;
+width:30.6%;
+padding:1%;}
+
+div#foods{background-color: #dcb000;
+color: #ffefb1;
+border:4px solid #ffefb1;
+border-style:outset;
+border-radius:10px;}
+div#animals{background-color: #6a377b;
+color: #c09acc;
+border:4px solid #c09acc;
+border-style:outset;
+border-radius:10px;}
+div#hobbies{background-color: #ff0029;
+color: #ffa2b1;
+border:4px solid #ffa2b1;
+border-style:outset;
+border-radius:10px}
+
+a:link {text-decoration:none;}
+a:link {color: #fecbff;}
+a:visited {color: #8a018c}
+a:hover {color: #fc29ff}
+a:active {color: #C0F0FC}
